@@ -1,9 +1,0 @@
-html, body { height: 100% }
-html { background: #f0db4f }
-article {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  padding: 40px 10%;
-  font: bold 120px Helvetica, Tahoma;
-}
